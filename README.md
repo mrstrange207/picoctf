@@ -1,1 +1,3 @@
 # picoctf
+## GENERAL SKILLS
+### Useless
