@@ -1,3 +1,3 @@
 # picoctf
 ## GENERAL SKILLS
-### Useless
+## CRYPTOGRAPHY
