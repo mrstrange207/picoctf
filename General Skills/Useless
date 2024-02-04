@@ -1,0 +1,4 @@
+Connected using ssh command ssh picoplayer@saturn.picoctf.net -p 52135
+Used ls and then did cat on file useless
+Saw the code and found read the manual so did man useless luckily 
+Found the flag at end of manual
